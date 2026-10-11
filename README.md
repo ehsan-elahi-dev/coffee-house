@@ -6,15 +6,16 @@ A modern and responsive coffee shop landing page designed to deliver a warm, ele
 
 ---
 
-## 🚀 Live Demo
-
-**[☕ View Live Demo](https://ehsan-elahi-dev.github.io/coffee-house/)**
-
----
 
 ## 📸 Project Preview
 
 ![Coffee House Preview](assets/screenshot/coffee-house.png)
+
+---
+
+## 🚀 Live Demo
+
+**[☕ View Live Demo](https://ehsan-elahi-dev.github.io/coffee-house/)**
 
 ---
 
